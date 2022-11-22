@@ -101,8 +101,12 @@ button{
 .row1 h2{
     text-transform: uppercase;
 }
-.row p{
+.row1 p{
     color: hsl(221, 23%, 58%);
+}
+p{
+    color: hsl(221, 23%, 58%);
+    font-weight: 400px;
 }
 
 
